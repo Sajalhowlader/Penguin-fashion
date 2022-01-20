@@ -1,0 +1,82 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.header-section {
+    background-color: #FFFBF0;
+}
+.nav-bar{
+    height: 80px;
+    background-color: #f9f4f2;
+    font-family: roboto;
+}
+.banar-detail,.card-text{
+    font-family: roboto;
+}
+.button-color{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 6px;
+   border: none;
+}
+.banar-title {
+    font-size: 55px;
+    color: #FABE4C;
+}
+.color-one{
+    color:#363958
+}
+.logo-div{
+    width: 30%;
+}
+.card-img {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding:20px;
+    border-radius: 15px;
+ 
+  
+}
+.card-img img{
+    width: 203px;
+    height: auto;
+}
+.card{
+    border: none;
+  box-shadow: 7px 9px 20px 0px #d9d9d9;
+}
+.product-price{
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.img-title img{
+    width: 71px;
+    height: auto;
+}
+.use-margin{
+    margin-top:10%;
+    padding-bottom:10%
+}
+.footer-style{
+    padding: 30px 0px;
+    background-color: #030512;
+    text-align: center;
+    color: white;
+}
+.footer-style a {
+    padding: 4px 6px;
+    background: #141815;
+    border-radius: 14px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    color: #0095ff;
+    margin-right: 6px;
+    margin-top: 10px;
+}
